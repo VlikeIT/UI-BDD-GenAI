@@ -46,8 +46,8 @@ Developed based on JDK17+Maven3.9.9+SpringBoot3.3.0+HSQL database+Layui frontend
 #### Project Code
 
 1.  MobileBDD Automated Testing Framework
-    [https://gitee.com/vvliker-jo/mobile-bdd](https://gitee.com/vvliker-jo/mobile-bdd)
-2.  AI Server Code
+   https://github.com/VlikeIT/MobileBDD
+3.  AI Server Code
     ![img.png](image/img20.png)
 
 
